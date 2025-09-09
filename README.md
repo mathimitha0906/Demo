@@ -1,4 +1,4 @@
-#personal info:
+##personal info:
 My name is mathimitha.P,from krishnagiri district.I completed my higher studies in Mullai matric hr sec school from biology backround .
 i couldnt have any idea about computers.
 I am a CSE student,studying in KGISL institute of technology.MY dream is to became a good employee in best company.I like to learn coding ,programming..
@@ -11,3 +11,5 @@ He got 583 in his 10 th studies and he got 2 nd rank.
 My roll model is my uncle,because He is one of the confidend person.and also he only suggest this collage
 He is from middle class but his father couldnt spend money for his studies but his hardwork and smartwork make him to work in same campus company,no one could help him.
 so,i want to be a confident person and smartwork person
+#SIR:
+Sir,only one thing ,that help me in studies,phython programming.
