@@ -13,3 +13,17 @@ He is from middle class but his father couldnt spend money for his studies but h
 so,i want to be a confident person and smartwork person
 #SIR:
 Sir,only one thing ,that help me in studies,phython programming and support me
+
+
+###############################################
+Mathimitha,
+
+Don’t worry about coming from a biology background—you will definitely learn computer science step by step. Even if you don’t know the basics now, with practice and guidance, you will soon feel comfortable and confident with computers.
+
+I am very happy that you already have interest in coding and programming. That interest itself is your biggest strength, and it will surely help you succeed in engineering. Never feel afraid; every expert once started as a beginner.
+
+I understand your dream to become a good employee in a best company, and I will do my best to support you—especially in Python programming and wherever you need help. Your uncle is a great inspiration; like him, with confidence, hard work, and smart work, you too will achieve success and make your family proud.
+
+Always remember, your determination and interest are more important than what you knew before entering this course. Stay confident, keep learning, and believe in yourself. One day I am sure I will see you working in a good company and becoming a role model for others.
+
+All the very best!
